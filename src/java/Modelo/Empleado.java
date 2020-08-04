@@ -13,6 +13,7 @@ public class Empleado {
     String estado;
     String user;
 
+    //Metodos
     public Empleado() {
     }
 
